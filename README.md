@@ -2,7 +2,9 @@
 The PAMAP two is an open source data set Created by the ceenter for Machine Learning and intelligent Systems UCI, basically it is a dataset which has physical activity monitoring data of 18 physical activities which was perormed by 9 subjects wearing 3 internal measurement devices and a heart rate monitor. 8 subjects were male and one was female. and with respect to IMU they were the following ones:
 
 sampling frequency: 100Hz
+
 position of the sensors:
+
 1 IMU over the wrist on the dominant arm
 1 IMU on the chest
 1 IMU on the dominant side's ankle
